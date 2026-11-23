@@ -1,33 +1,6 @@
 {
- "generated": "2026-11-23T19:27:14+01:00",
- "checked": 10,
- "products": [
-  {
-   "url": "https://www.bauhaus.cz/ryobi-aku-retezova-pila-rcs36x3550hi-22983725",
-   "name": "Ryobi Aku ÅetÄzovÃ¡ pila RCS36X3550HI 36 V; 5 Ah; Li-Ion; 1 akumulÃ¡tor; 35 cm",
-   "price": 990.0,
-   "original": null,
-   "labels": [
-    "Doprodej"
-   ],
-   "save_pct_shown": null,
-   "error": null,
-   "discount": null,
-   "discount_pct": null
-  },
-  {
-   "url": "https://www.bauhaus.cz/ryobi-aku-sekacka-ry36lmx46a-150-32279876",
-   "name": "Ryobi Aku sekaÄka RY36LMX46A-150 36 V; 5 Ah; Li-Ion; 1 akumulÃ¡tor; 46 cm",
-   "price": 990.0,
-   "original": null,
-   "labels": [
-    "Doprodej"
-   ],
-   "save_pct_shown": null,
-   "error": null,
-   "discount": null,
-   "discount_pct": null
-  }
- ],
+ "generated": "2026-11-23T19:28:43+01:00",
+ "checked": 3,
+ "products": [],
  "errors": []
 }
