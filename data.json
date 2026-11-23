@@ -1,6 +1,1172 @@
 {
- "generated": "2026-11-23T19:28:43+01:00",
- "checked": 3,
- "products": [],
- "errors": []
+ "generated": "2026-11-23T19:48:32+01:00",
+ "checked": 460,
+ "products": [
+  {
+   "url": "https://www.bauhaus.cz/ryobi-aku-retezova-pila-rcs36x3550hi-22983725",
+   "name": "Ryobi Aku řetězová pila RCS36X3550HI 36 V; 5 Ah; Li-Ion; 1 akumulátor; 35 cm",
+   "price": 9990.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-aku-sekacka-ry36lmx46a-150-32279876",
+   "name": "Ryobi Aku sekačka RY36LMX46A-150 36 V; 5 Ah; Li-Ion; 1 akumulátor; 46 cm",
+   "price": 10990.0,
+   "original": 12990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 15,
+   "error": null,
+   "discount": 2000.0,
+   "discount_pct": 15.4
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-batoh-na-naradi-rssbp2-30196483",
+   "name": "Ryobi Batoh na nářadí RSSBP2 47 × 19 × 36 cm",
+   "price": 1600.0,
+   "original": 1690.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 5,
+   "error": null,
+   "discount": 90.0,
+   "discount_pct": 5.3
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-civka-se-strunou-rac119-25401651",
+   "name": "Ryobi Cívka se strunou RAC119 pro elektrické síťové strunové sekačky Ryobi; 3 ks",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena",
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-elektricka-retezova-pila-26832731",
+   "name": "Ryobi Elektrická řetězová pila 2,3 kW; 40 cm",
+   "price": 0.12,
+   "original": 2890.0,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": 2889.88,
+   "discount_pct": 100.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-elektricka-sekacka-na-travu-rlm15e36h-23111422",
+   "name": "Ryobi Elektrická sekačka na trávu RLM15E36H 1500 W; 36 cm",
+   "price": 4290.0,
+   "original": null,
+   "labels": [
+    "Doprodej",
+    "Pouze online"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-kufr-na-naradi-rtb22inch-28155869",
+   "name": "Ryobi Kufr na nářadí RTB22INCH 56,5 × 32,3 × 31 cm",
+   "price": 1100.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-dvojity-rslw810-31263724",
+   "name": "Ryobi Link Hák do závěsného panelu dvojitý RSLW810 22,7 kg; ocel",
+   "price": 292.0,
+   "original": 319.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 8,
+   "error": null,
+   "discount": 27.0,
+   "discount_pct": 8.5
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-na-kolo-rslw809-31263715",
+   "name": "Ryobi Link Hák do závěsného panelu na kolo RSLW809 22,7 kg; ocel",
+   "price": 309.0,
+   "original": 329.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 20.0,
+   "discount_pct": 6.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-rslw801-31085292",
+   "name": "Ryobi Link Hák do závěsného panelu RSLW801 22,7 kg; ocel",
+   "price": 195.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-rslw802-31245096",
+   "name": "Ryobi Link Hák do závěsného panelu RSLW802 22,7 kg; ocel",
+   "price": 195.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-rslw804-31256344",
+   "name": "Ryobi Link Hák do závěsného panelu RSLW804 22,7 kg; ocel",
+   "price": 269.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-rslw805-31262110",
+   "name": "Ryobi Link Hák do závěsného panelu RSLW805 22,7 kg; ocel",
+   "price": 209.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-rslw806-31263733",
+   "name": "Ryobi Link Hák do závěsného panelu RSLW806 22,7 kg; ocel",
+   "price": 292.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-hak-do-zavesneho-panelu-rslw807-31263900",
+   "name": "Ryobi Link Hák do závěsného panelu RSLW807 11,3 kg; ocel",
+   "price": 225.0,
+   "original": null,
+   "labels": [
+    "Doprodej",
+    "Pouze online"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-kufr-na-naradi-rsl101-31263706",
+   "name": "Ryobi Link Kufr na nářadí RSL101 57 × 43 × 15 cm; nosnost: 22,7 kg; hmotnost: 4,3 kg",
+   "price": 2019.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-kufr-na-naradi-rsl102-31240426",
+   "name": "Ryobi Link Kufr na nářadí RSL102 56 × 40,5 × 23,5 cm; nosnost: 36 kg; hmotnost: 4,9 kg",
+   "price": 2160.0,
+   "original": 2490.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 13,
+   "error": null,
+   "discount": 330.0,
+   "discount_pct": 13.3
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-organizer-rsl812-31256955",
+   "name": "Ryobi Link Organizér RSL812 pro závěsný a úložný systém Ryobi Link",
+   "price": 97.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-organizer-rsl813-31240435",
+   "name": "Ryobi Link Organizér RSL813 pro závěsný a úložný systém Ryobi Link",
+   "price": 85.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-police-do-zavesneho-panelu-rslw401-31256964",
+   "name": "Ryobi Link Police do závěsného panelu RSLW401 535 × 145 × 280 mm; 22,7 kg",
+   "price": 1780.0,
+   "original": 1990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 10,
+   "error": null,
+   "discount": 210.0,
+   "discount_pct": 10.6
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-police-do-zavesneho-panelu-rslw402-31085283",
+   "name": "Ryobi Link Police do závěsného panelu RSLW402 535 × 145 × 280 mm; 22,7 kg",
+   "price": 1180.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-prepravka-na-naradi-rsl104-31237367",
+   "name": "Ryobi Link Přepravka na nářadí RSL104 pro závěsný a úložný systém Ryobi Link",
+   "price": 1490.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-link-zavesny-panel-rsl2wr-2-31237376",
+   "name": "Ryobi Link Závěsný panel RSL2WR-2 34 kg/30 cm; 2 ks",
+   "price": 1039.0,
+   "original": null,
+   "labels": [
+    "Doprodej",
+    "Pouze online"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-fukar-a-vysavac-na-listi-rbv36b-25629602",
+   "name": "Ryobi MAX POWER Aku fukar a vysavač na listí RBV36B 36 V; 774 m³/h; 45 l",
+   "price": 4500.0,
+   "original": 4690.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 4,
+   "error": null,
+   "discount": 190.0,
+   "discount_pct": 4.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-krovinorez-rbc36x26b-22331005",
+   "name": "Ryobi MAX POWER Aku křovinořez RBC36X26B 36 V; 4 Ah; Li-Ion; 1 akumulátor; 30 cm",
+   "price": 8190.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-krovinorez-ry36bcx30a-0-30697269",
+   "name": "Ryobi MAX POWER Aku křovinořez RY36BCX30A-0 36 V; bez akumulátoru; 30 cm",
+   "price": 7500.0,
+   "original": 7890.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 4,
+   "error": null,
+   "discount": 390.0,
+   "discount_pct": 4.9
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-nuzky-na-zivy-plot-ry36htx65a0-29333534",
+   "name": "Ryobi MAX POWER Aku nůžky na živý plot RY36HTX65A‐0 36 V; 1500 km./min; délka střihu: 65 cm",
+   "price": 4900.0,
+   "original": 5190.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 5,
+   "error": null,
+   "discount": 290.0,
+   "discount_pct": 5.6
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-nuzky-na-zivy-plot-ry36pht50a-0-31262059",
+   "name": "Ryobi MAX POWER Aku nůžky na živý plot RY36PHT50A-0 36 V; 3000 km./min; délka střihu: 50 cm",
+   "price": 3800.0,
+   "original": 3990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 4,
+   "error": null,
+   "discount": 190.0,
+   "discount_pct": 4.8
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-pila-na-vetve-ry36pp25a-31288976",
+   "name": "Ryobi Max Power Aku pila na větve RY36PP25A 36 V; 25 cm",
+   "price": 4500.0,
+   "original": 4690.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 4,
+   "error": null,
+   "discount": 190.0,
+   "discount_pct": 4.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-retezova-pila-ry36csx35a-27292356",
+   "name": "Ryobi MAX POWER Aku řetězová pila RY36CSX35A 36 V; 35 cm; 5 Ah",
+   "price": 9400.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-retezova-pila-ry36csx35a-27297500",
+   "name": "Ryobi MAX POWER Aku řetězová pila RY36CSX35A 36 V; 35 cm",
+   "price": 4990.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-retezova-pila-ry36csx40b-160-31719810",
+   "name": "Ryobi MAX POWER Aku řetězová pila RY36CSX40B-160 36 V; 40 cm; 6 Ah",
+   "price": 9400.0,
+   "original": 9890.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 4,
+   "error": null,
+   "discount": 490.0,
+   "discount_pct": 5.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-retezova-pila-ry36thcsx30a-32300934",
+   "name": "Ryobi Max Power Aku řetězová pila RY36THCSX30A 36 V; 30 cm",
+   "price": 5600.0,
+   "original": 5990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 390.0,
+   "discount_pct": 6.5
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-aku-vyzinac-ry36lt33a-0-27923823",
+   "name": "Ryobi MAX POWER Aku vyžínač RY36LT33A-0 36 V; bez akumulátoru; 28–33cm",
+   "price": 2600.0,
+   "original": 2790.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 190.0,
+   "discount_pct": 6.8
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-max-power-whisper-aku-fukar-na-listi-ry36blxb-29248498",
+   "name": "Ryobi MAX POWER Whisper Aku fukar na listí RY36BLXB 36 V; 1240 m³/h",
+   "price": 3800.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-myci-kartac-rakscrub-m-28238654",
+   "name": "Ryobi Mycí kartáč RAKSCRUB M průměr kartáče: 15 cm; plast",
+   "price": 305.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-nahradni-nuz-rac404-25275360",
+   "name": "Ryobi Náhradní nůž RAC404 40 cm; vhodné pro: akumulátorovou sekačku Ryobi RLM36X40H50",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena",
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-nahradni-nuz-rac409-24836056",
+   "name": "Ryobi Náhradní nůž RAC409 53 cm; vhodné pro: sekačku na trávu Ryobi RLM5319SME",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena",
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-nastavec-vysavace-rsvmbb-30671014",
+   "name": "Ryobi Nástavec vysavače RSVMBB plast",
+   "price": 572.0,
+   "original": 899.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 36,
+   "error": null,
+   "discount": 327.0,
+   "discount_pct": 36.4
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-cerpadlo-ry18tpxa-0-32281437",
+   "name": "Ryobi ONE+ Aku čerpadlo RY18TPXA-0 18 V; bez akumulátoru; 2270 l/h",
+   "price": 5.1,
+   "original": 4490.0,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": 4484.9,
+   "discount_pct": 99.9
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-cistic-spar-patio-ry18pca-0-27886041",
+   "name": "Ryobi ONE+ Aku čistič spár Patio RY18PCA-0 18 V; Li-Ion",
+   "price": 2900.0,
+   "original": 3390.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 14,
+   "error": null,
+   "discount": 490.0,
+   "discount_pct": 14.5
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-fukar-na-listi-rbl1820s40f-30145643",
+   "name": "Ryobi ONE+ Aku fukar na listí RBL1820S40F 18 V; Li-Ion",
+   "price": 2290.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-fukar-na-listi-ry18blxb-27815814",
+   "name": "Ryobi ONE+ Aku fukar na listí RY18BLXB 18 V; 726 m³/h",
+   "price": 2590.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-hoblik-r18pl-0-25504286",
+   "name": "Ryobi ONE+ Aku hoblík R18PL-0 11000 ot./min.; 600 W",
+   "price": 2300.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-kompresor-r18mi-0-27739987",
+   "name": "Ryobi ONE+ Aku kompresor R18MI-0 18 V; 10,34 bar",
+   "price": 2050.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-led-reflektor-rls18-0-29335743",
+   "name": "Ryobi ONE+ Aku LED reflektor RLS18-0 studená bílá",
+   "price": 1883.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-multifunkcni-naradi-rmt18-1c20gp-34125036",
+   "name": "Ryobi ONE+ Aku multifunkční nářadí RMT18-1C20GP 18 V; 10000–20000 ot./min.",
+   "price": 2390.0,
+   "original": 2490.0,
+   "labels": [],
+   "save_pct_shown": 4,
+   "error": null,
+   "discount": 100.0,
+   "discount_pct": 4.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-ohranovaci-frezka-rtr18-0-30293065",
+   "name": "Ryobi ONE+ Aku ohraňovací frézka RTR18-0 20 000/30 000 ot./min.",
+   "price": 2347.0,
+   "original": null,
+   "labels": [
+    "Doprodej",
+    "Pouze online"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-priklepova-vrtacka-rpd18-31393816",
+   "name": "Ryobi ONE+ Aku příklepová vrtačka RPD18 450/1750 ot./min.",
+   "price": 3800.0,
+   "original": 4590.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 17,
+   "error": null,
+   "discount": 790.0,
+   "discount_pct": 17.2
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-retezova-pila-ocs-1830-24908593",
+   "name": "Ryobi ONE+ Aku řetězová pila OCS 1830 18 V; 30 cm",
+   "price": 4500.0,
+   "original": 4790.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 290.0,
+   "discount_pct": 6.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-retezova-pila-rcs18x3050f-25059467",
+   "name": "Ryobi ONE+ Aku řetězová pila RCS18X3050F 18 V; 30 cm; 5 Ah",
+   "price": 6490.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-retezova-pila-ry18psx10a-31302131",
+   "name": "Ryobi ONE+ Aku řetězová pila RY18PSX10A 18 V; 10 cm",
+   "price": 2990.0,
+   "original": 3390.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 11,
+   "error": null,
+   "discount": 400.0,
+   "discount_pct": 11.8
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-uhlova-bruska-r18ag-34329537",
+   "name": "Ryobi ONE+ Aku úhlová bruska R18AG 18 V; 7500 ot./min.",
+   "price": 2990.0,
+   "original": 3290.0,
+   "labels": [],
+   "save_pct_shown": 9,
+   "error": null,
+   "discount": 300.0,
+   "discount_pct": 9.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-vrtaci-sroubovak-rdd18-32480605",
+   "name": "Ryobi ONE+ Aku vrtací šroubovák RDD18 18 V; 450/1750 ot./min.",
+   "price": 2600.0,
+   "original": 2792.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 192.0,
+   "discount_pct": 6.9
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-vysavac-rasv18bl-0-31846693",
+   "name": "Ryobi ONE+ Aku vysavač RASV18BL-0 18 V; 1 l",
+   "price": 99.97,
+   "original": 7390.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": 7290.03,
+   "discount_pct": 98.6
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-vyzinac-ry18lt23a-33188489",
+   "name": "Ryobi ONE+ Aku vyžínač RY18LT23A 18 V; 2 Ah; Li-Ion; 1 akumulátor; 23 cm",
+   "price": 1790.0,
+   "original": 1999.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 10,
+   "error": null,
+   "discount": 209.0,
+   "discount_pct": 10.5
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-aku-vyzinac-strunovy-ry18ltx33a-125-30731981",
+   "name": "Ryobi ONE+ Aku vyžínač strunový RY18LTX33A-125 18 V; 2,5 Ah; Li-ion; 1×; 28–33 cm",
+   "price": 2990.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-chladici-box-hybridni-ry18cb23a-31269236",
+   "name": "Ryobi ONE+ Chladicí box hybridní RY18CB23A 23 l",
+   "price": 11990.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-okruzni-pila-rcs18x-0-28932035",
+   "name": "Ryobi ONE+ HP Aku okružní pila RCS18X-0 4500 ot./min.",
+   "price": 3900.0,
+   "original": 4390.0,
+   "labels": [
+    "Doprodej",
+    "Pouze online"
+   ],
+   "save_pct_shown": 11,
+   "error": null,
+   "discount": 490.0,
+   "discount_pct": 11.2
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-priklepova-vrtacka-rpd18x-242s-29214879",
+   "name": "Ryobi ONE+ HP Aku příklepová vrtačka RPD18X-242S 500/2100 ot./min.",
+   "price": 5300.0,
+   "original": 5690.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 390.0,
+   "discount_pct": 6.9
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-razovy-utahovak-riw18x-0-28894889",
+   "name": "Ryobi ONE+ HP Aku rázový utahovák RIW18X-0 900 Nm; 3800 ú./min.",
+   "price": 4300.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-sekacka-ry18lmx33a-0-31734600",
+   "name": "Ryobi ONE+ HP Aku sekačka RY18LMX33A-0 18 V; Li-Ion; bez akumulátoru; 33 cm",
+   "price": 5990.0,
+   "original": 6490.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 7,
+   "error": null,
+   "discount": 500.0,
+   "discount_pct": 7.7
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-uhlova-bruska-rag18x-33028901",
+   "name": "Ryobi ONE+ HP Aku úhlová bruska RAG18X 18 V; 9200 ot./min.",
+   "price": 3500.0,
+   "original": 3690.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 5,
+   "error": null,
+   "discount": 190.0,
+   "discount_pct": 5.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-vrtaci-kladivo-rsds18x-0-29256394",
+   "name": "Ryobi ONE+ HP Aku vrtací kladivo RSDS18X-0 1400 ot./min.; 2,5 J; 5000 ú./min.",
+   "price": 5500.0,
+   "original": 5990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 8,
+   "error": null,
+   "discount": 490.0,
+   "discount_pct": 8.2
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-hp-aku-vysavac-rsv18x1-0-30771206",
+   "name": "Ryobi ONE+ HP Aku vysavač RSV18X1-0 90 W; 18 V; 800 ml",
+   "price": 4800.0,
+   "original": 6990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 31,
+   "error": null,
+   "discount": 2190.0,
+   "discount_pct": 31.3
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-lestici-sada-rak2bb-25432411",
+   "name": "Ryobi ONE+ Lešticí sada RAK2BB ø 254 mm; 2 ks",
+   "price": 179.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-nabijecka-rc18120-25511170",
+   "name": "Ryobi ONE+ Nabíječka RC18120 18 V",
+   "price": 800.0,
+   "original": 825.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 3,
+   "error": null,
+   "discount": 25.0,
+   "discount_pct": 3.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-sada-akumulatoru-a-nabijecky-32345032",
+   "name": "Ryobi ONE+ Sada akumulátoru a nabíječky 18 V; 2 Ah",
+   "price": 1670.0,
+   "original": 1790.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 6,
+   "error": null,
+   "discount": 120.0,
+   "discount_pct": 6.7
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-sada-akumulatoru-a-nabijecky-rc18120-115-25517910",
+   "name": "Ryobi ONE+ Sada akumulátoru a nabíječky RC18120-115 18 V; 1,5 Ah",
+   "price": 1300.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-sada-akumulatoru-a-nabijecky-rc18120-125-30358937",
+   "name": "Ryobi ONE+ Sada akumulátoru a nabíječky RC18120-125 18 V; 2,5 Ah",
+   "price": 2160.0,
+   "original": 2190.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 1,
+   "error": null,
+   "discount": 30.0,
+   "discount_pct": 1.4
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-sada-akumulatoru-a-nabijecky-rc18120-150x-31236993",
+   "name": "Ryobi ONE+ Sada akumulátoru a nabíječky RC18120-150X 18 V; 5 Ah",
+   "price": 2650.0,
+   "original": 2990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 11,
+   "error": null,
+   "discount": 340.0,
+   "discount_pct": 11.4
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-sada-akumulatoru-a-nabijecky-rc18120-32704420",
+   "name": "Ryobi ONE+ Sada akumulátoru a nabíječky RC18120 18 V; 5/2,5 Ah; 2 akumulátory",
+   "price": 2900.0,
+   "original": 2990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 3,
+   "error": null,
+   "discount": 90.0,
+   "discount_pct": 3.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-permanentni-popisovac-30348707",
+   "name": "Ryobi Permanentní popisovač černý",
+   "price": 29.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-prepravni-taska-na-retezovou-pilu-30684979",
+   "name": "Ryobi Přepravní taška na řetězovou pilu 45 × 23 × 35 cm",
+   "price": 1200.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-retez-pro-retezovou-pilu-rac242-25276789",
+   "name": "Ryobi Řetěz pro řetězovou pilu RAC242 35 cm; 52 článků; 3/8\"; 1 mm",
+   "price": 449.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-sberny-kos-rac467-30846858",
+   "name": "Ryobi Sběrný koš RAC467 vhodný pro: zahradní traktor RM480e",
+   "price": 5990.0,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-sberny-vak-rac364-25711916",
+   "name": "Ryobi Sběrný vak RAC364 50 l; pro vysavače/fukary Ryobi",
+   "price": 550.0,
+   "original": 598.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 8,
+   "error": null,
+   "discount": 48.0,
+   "discount_pct": 8.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-skladany-filtr-rpvf-32989759",
+   "name": "Ryobi Skládaný filtr RPVF pro Ryobi RV1811",
+   "price": 99.97,
+   "original": 359.0,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": null,
+   "discount": 259.03,
+   "discount_pct": 72.2
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-solarni-panel-rysp21a-31751733",
+   "name": "Ryobi Solární panel RYSP21A 21 W",
+   "price": 2500.0,
+   "original": 2690.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 7,
+   "error": null,
+   "discount": 190.0,
+   "discount_pct": 7.1
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-strunova-hlava-rac118-25401642",
+   "name": "Ryobi Strunová hlava RAC118 elektrické síťové strunové sekačky Ryobi",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena",
+   "discount": null,
+   "discount_pct": null
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-usb-lithium-aku-rezacka-polystyrenu-rhc4-31556257",
+   "name": "Ryobi USB Lithium Aku řezačka polystyrenu RHC4 4 V; 150–270 °C",
+   "price": 1810.0,
+   "original": 1990.0,
+   "labels": [
+    "Doprodej",
+    "Pouze online"
+   ],
+   "save_pct_shown": 9,
+   "error": null,
+   "discount": 180.0,
+   "discount_pct": 9.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-zahradni-traktor-rm480e-30042382",
+   "name": "Ryobi Zahradní traktor RM480E bezuhlíkový; 48 V; 1 akumulátor",
+   "price": 59990.0,
+   "original": 99990.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 40,
+   "error": null,
+   "discount": 40000.0,
+   "discount_pct": 40.0
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-zavesna-dilenska-skrinka-rhws-02-30345258",
+   "name": "Ryobi Závěsná dílenská skříňka RHWS-02 47,8 × 43,4 × 28,2 cm; kov; zelená, šedá",
+   "price": 2015.0,
+   "original": 2090.0,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": 3,
+   "error": null,
+   "discount": 75.0,
+   "discount_pct": 3.6
+  }
+ ],
+ "errors": [
+  {
+   "url": "https://www.bauhaus.cz/ryobi-civka-se-strunou-rac119-25401651",
+   "name": "Ryobi Cívka se strunou RAC119 pro elektrické síťové strunové sekačky Ryobi; 3 ks",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-nahradni-nuz-rac404-25275360",
+   "name": "Ryobi Náhradní nůž RAC404 40 cm; vhodné pro: akumulátorovou sekačku Ryobi RLM36X40H50",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-nahradni-nuz-rac409-24836056",
+   "name": "Ryobi Náhradní nůž RAC409 53 cm; vhodné pro: sekačku na trávu Ryobi RLM5319SME",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-nabijecka-bcl-14181-h-22933137",
+   "name": "Ryobi ONE+ Nabíječka BCL 14181 H Vhodné pro: NiCd a Li-Ion akumulátory se systémem Ryobi ONE+",
+   "price": null,
+   "original": null,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-one-rychlonabijecka-rc18180-31859929",
+   "name": "Ryobi ONE+ Rychlonabíječka RC18180 pro akumulátory Ryobi ONE+ 18 V",
+   "price": null,
+   "original": null,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-sada-domaciho-prislusenstvi-28314138",
+   "name": "Ryobi Sada domácího příslušenství vhodné pro: vysavače Ryobi",
+   "price": null,
+   "original": null,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-strunova-hlava-rac118-25401642",
+   "name": "Ryobi Strunová hlava RAC118 elektrické síťové strunové sekačky Ryobi",
+   "price": null,
+   "original": null,
+   "labels": [
+    "Doprodej"
+   ],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-strunova-hlava-rac122-25401660",
+   "name": "Ryobi Strunová hlava RAC122 2 × 4,2 m; elektrické síťové strunové sekačky Ryobi",
+   "price": null,
+   "original": null,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  },
+  {
+   "url": "https://www.bauhaus.cz/ryobi-strunova-hlava-rac123-25401679",
+   "name": "Ryobi Strunová hlava RAC123 27 cm; vhodné pro: strunovou sekačku Ryobi RLT 4027, RLT5027 a RLT6030",
+   "price": null,
+   "original": null,
+   "labels": [],
+   "save_pct_shown": null,
+   "error": "cena nenalezena"
+  }
+ ]
 }
