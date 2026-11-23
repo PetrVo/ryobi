@@ -45,9 +45,8 @@ SALE_LABELS = ["Doprodej", "Výprodej", "Akce", "Leták", "Akční cena", "Sleva
 INFO_LABELS = ["Pouze online", "Pouze v prodejně", "Exkluzivně v Bauhaus", "Novinka"]
 CART_MARKERS = ["Přidat do košíku", "Doručení domů", "Rezervovat a vyzvednout", "Rezervovat na prodejně"]
 
-PRICE_RE = re.compile(
-    r"(?<![\d,.])(\d{1,3}(?:[   ]\d{3})*|\d+)\s*,\s*(-|\d{2})(?!\d)(?!\s*/)"
-)
+# Bauhaus píše ceny jako „2 990,-“; desetinná čísla v popisu (např. „0,12“) ignorujeme.
+PRICE_RE = re.compile(r"(?<![\d,.])(\d{1,3}(?:[ \u00a0\u202f]\d{3})*|\d+)\s*,\s*(-)(?!\s*/)")
 SAVE_RE = re.compile(r"Ušetříte\s*(\d+)\s*%")
 PRODUCT_URL_RE = re.compile(rf"^{re.escape(BASE)}/{BRAND_SLUG}-[^/?#]*-\d{{6,}}/?$", re.I)
 
@@ -273,7 +272,8 @@ def render(products: list[Product], generated: datetime, total: int) -> str:
                 f'<td class="n b" data-v="{p.discount_pct}">{str(p.discount_pct).replace(".", ",")}&nbsp;%</td>',
             ]
         else:
-            cells += [f'<td class="n" data-v="{p.price}">{fmt_kc(p.price)}&nbsp;Kč</td>']
+            cells += [(f'<td class="n" data-v="{p.price}">{fmt_kc(p.price)}&nbsp;Kč</td>' if p.price is not None
+                       else '<td class="n mut" data-v="0">neuvedena</td>')]
         cells.append(f'<td class="u"><a href="{e(p.url)}" target="_blank" rel="noopener">{e(p.url.replace(BASE, ""))}</a></td>')
         return "<tr>" + "".join(cells) + "</tr>"
 
