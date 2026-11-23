@@ -38,7 +38,7 @@ jobs:
           LIMIT: ${{ inputs.limit }}
         run: |
           ARGS="--out index.html --debug-dir debug"
-          if [ -n "$LIMIT" ]; then ARGS="$ARGS --limit $LIMIT"; fi
+          if [ -n "$LIMIT" ]; then ARGS="$ARGS --limit $LIMIT --verbose"; fi
           python scripts/ryobi_slevy.py $ARGS
 
       - name: Uložení ladicích HTML

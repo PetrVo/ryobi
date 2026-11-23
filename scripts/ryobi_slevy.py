@@ -34,6 +34,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 BASE = "https://www.bauhaus.cz"
 SITEMAP_INDEX = f"{BASE}/sitemap-index.xml"
 BRAND_SLUG = "ryobi"
+DEBUG = False
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"
@@ -102,8 +103,8 @@ class Client:
                 if r.status_code in (429, 500, 502, 503, 504):
                     raise requests.HTTPError(f"HTTP {r.status_code}")
                 r.raise_for_status()
-                r.encoding = r.encoding or "utf-8"
-                return r.text
+                # Bauhaus neposílá charset v hlavičce; requests by pak zvolil latin-1.
+                return r.content.decode("utf-8", errors="replace")
             except requests.RequestException as e:
                 err = e
                 self._last = time.monotonic()
@@ -202,6 +203,9 @@ def parse_product(page: str, url: str) -> Product:
             break
 
     window = " ".join(texts[start + 1:end])
+    if DEBUG:
+        print("  DEBUG start/end", start, end, "| before:", texts[max(0, start - 15):start + 1])
+        print("  DEBUG window:", repr(window[:1500]))
     prices = [_num(m.group(0)) for m in PRICE_RE.finditer(window)]
     prices = [x for x in prices if x > 0]
     if prices:
@@ -336,7 +340,10 @@ def main() -> int:
     ap.add_argument("--debug-dir", default=None, help="uložit HTML prvních produktů pro ladění")
     ap.add_argument("--min-products", type=int, default=50,
                     help="selhat, pokud se najde méně produktů (chrání stránku před prázdným přepsáním)")
+    ap.add_argument("--verbose", action="store_true", help="vypsat ladicí výřezy textu")
     a = ap.parse_args()
+    global DEBUG
+    DEBUG = a.verbose
 
     client = Client(delay=a.delay)
     print("Hledám produkty Ryobi v sitemap…")
