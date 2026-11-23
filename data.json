@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T19:48:32+01:00",
+ "generated": "2026-11-23T20:14:22+01:00",
  "checked": 460,
  "products": [
   {
@@ -53,17 +53,6 @@
    "error": "cena nenalezena",
    "discount": null,
    "discount_pct": null
-  },
-  {
-   "url": "https://www.bauhaus.cz/ryobi-elektricka-retezova-pila-26832731",
-   "name": "Ryobi Elektrická řetězová pila 2,3 kW; 40 cm",
-   "price": 0.12,
-   "original": 2890.0,
-   "labels": [],
-   "save_pct_shown": null,
-   "error": null,
-   "discount": 2889.88,
-   "discount_pct": 100.0
   },
   {
    "url": "https://www.bauhaus.cz/ryobi-elektricka-sekacka-na-travu-rlm15e36h-23111422",
@@ -511,17 +500,6 @@
    "discount_pct": 36.4
   },
   {
-   "url": "https://www.bauhaus.cz/ryobi-one-aku-cerpadlo-ry18tpxa-0-32281437",
-   "name": "Ryobi ONE+ Aku čerpadlo RY18TPXA-0 18 V; bez akumulátoru; 2270 l/h",
-   "price": 5.1,
-   "original": 4490.0,
-   "labels": [],
-   "save_pct_shown": null,
-   "error": null,
-   "discount": 4484.9,
-   "discount_pct": 99.9
-  },
-  {
    "url": "https://www.bauhaus.cz/ryobi-one-aku-cistic-spar-patio-ry18pca-0-27886041",
    "name": "Ryobi ONE+ Aku čistič spár Patio RY18PCA-0 18 V; Li-Ion",
    "price": 2900.0,
@@ -703,15 +681,15 @@
   {
    "url": "https://www.bauhaus.cz/ryobi-one-aku-vysavac-rasv18bl-0-31846693",
    "name": "Ryobi ONE+ Aku vysavač RASV18BL-0 18 V; 1 l",
-   "price": 99.97,
-   "original": 7390.0,
+   "price": 7390.0,
+   "original": null,
    "labels": [
     "Doprodej"
    ],
    "save_pct_shown": null,
    "error": null,
-   "discount": 7290.03,
-   "discount_pct": 98.6
+   "discount": null,
+   "discount_pct": null
   },
   {
    "url": "https://www.bauhaus.cz/ryobi-one-aku-vyzinac-ry18lt23a-33188489",
@@ -999,17 +977,6 @@
    "error": null,
    "discount": 48.0,
    "discount_pct": 8.0
-  },
-  {
-   "url": "https://www.bauhaus.cz/ryobi-skladany-filtr-rpvf-32989759",
-   "name": "Ryobi Skládaný filtr RPVF pro Ryobi RV1811",
-   "price": 99.97,
-   "original": 359.0,
-   "labels": [],
-   "save_pct_shown": null,
-   "error": null,
-   "discount": 259.03,
-   "discount_pct": 72.2
   },
   {
    "url": "https://www.bauhaus.cz/ryobi-solarni-panel-rysp21a-31751733",
