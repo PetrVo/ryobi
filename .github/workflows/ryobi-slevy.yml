@@ -1,0 +1,63 @@
+name: Slevy Ryobi
+
+# Spuštění na vyžádání: GitHub → Actions → „Slevy Ryobi“ → Run workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Jen prvních N produktů (test). Prázdné = všechny."
+        required: false
+        default: ""
+  # Chcete-li automatickou aktualizaci, odkomentujte (čas je v UTC):
+  # schedule:
+  #   - cron: "0 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ryobi-slevy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalace závislostí
+        run: pip install -r scripts/requirements.txt
+
+      - name: Stažení slev a vygenerování stránky
+        env:
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          ARGS="--out index.html --debug-dir debug"
+          if [ -n "$LIMIT" ]; then ARGS="$ARGS --limit $LIMIT"; fi
+          python scripts/ryobi_slevy.py $ARGS
+
+      - name: Uložení ladicích HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Commit a push (GitHub Pages se publikuje samo)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html data.json
+          if git diff --cached --quiet; then
+            echo "Beze změn."
+          else
+            git commit -m "Slevy Ryobi: aktualizace $(TZ=Europe/Prague date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
