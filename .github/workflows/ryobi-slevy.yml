@@ -8,9 +8,9 @@ on:
         description: "Jen prvních N produktů (test). Prázdné = všechny."
         required: false
         default: ""
-  # Chcete-li automatickou aktualizaci, odkomentujte (čas je v UTC):
-  # schedule:
-  #   - cron: "0 5 * * *"
+  # Automaticky každý den v 5:00 UTC (6:00 v Praze v zimě, 7:00 v létě):
+  schedule:
+    - cron: "0 5 * * *"
 
 permissions:
   contents: write
