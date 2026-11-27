@@ -8,9 +8,9 @@ on:
         description: "Jen prvních N produktů (test). Prázdné = všechny."
         required: false
         default: ""
-  # Automaticky každý den v 5:00 UTC (6:00 v Praze v zimě, 7:00 v létě):
+  # Automaticky každý den v 4:17 UTC (5:17 v Praze v zimě); GitHub plánované běhy často zpožďuje:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "17 4 * * *"
 
 permissions:
   contents: write
